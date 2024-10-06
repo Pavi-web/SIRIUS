@@ -99,3 +99,11 @@ Evolving Content: As new discoveries are made and more data becomes available, t
 As we look ahead, we envision integrating advanced artificial intelligence capabilities into the SIRIUS application to enhance user experience and engagement significantly. One of the primary goals is to implement AI-driven mood analysis of space images captured by the James Webb Space Telescope. This feature will enable the software to interpret the emotional tone conveyed by the imagery and play appropriate music that resonates with the visual content, creating an immersive multisensory experience for users. Additionally, we plan to introduce an AI voice assistant that will provide guided tours of the solar system. This assistant will offer real-time commentary on celestial phenomena, enhancing users' understanding of the universe while making the exploration process more interactive and engaging. By combining visual, auditory, and informational elements, we aim to cultivate a deeper appreciation for space exploration among users of all backgrounds. Through these innovations, the SIRIUS project aspires to transform the way individuals interact with space data, making it more accessible and enjoyable while fostering curiosity and wonder about the cosmos. Our commitment to continuous improvement ensures that the application will evolve, keeping pace with technological advancements and the needs of our audience.
 
 ## Future Look ##
+### More Interactive and pleasing UI ###
+![WhatsApp Image 2024-10-06 at 11 32 26 AM](https://github.com/user-attachments/assets/bd1bf812-f4d7-43a4-8b10-a1ccda9622e5)
+
+### Giving a real blend of space to the users ###
+![WhatsApp Image 2024-10-06 at 11 32 26 AM (2)](https://github.com/user-attachments/assets/dc990946-fcab-40be-af9b-87ca59661172)
+
+![WhatsApp Image 2024-10-06 at 11 32 26 AM (1)](https://github.com/user-attachments/assets/f6dae7fc-9320-42c3-ad01-89d021534824)
+![WhatsApp Image 2024-10-06 at 11 32 26 AM (3)](https://github.com/user-attachments/assets/e0d404e4-f85d-4242-b464-e8bf18b9d7f7)
